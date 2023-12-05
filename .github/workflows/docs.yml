@@ -3,7 +3,7 @@ name: Deploy documentation
 on:
     push:
         branches: [develop]
-    workflow_dispatch: {}
+    workflow_dispatch: {https://chat.opendesktop.org/?url=https%3A%2F%2Fgithub.com%2Fvector-im%2Felement-web%2Freleases%2Ftag%2Fv1.11.51-rc.0&data=05|01||27b3983864c244c075ef08dbf037fe82|84df9e7fe9f640afb435aaaaaaaaaaaa|1|0|638367895518412095|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|3000|||&sdata=1%2FjS7wePo99yI7BWhpkQsIkGrSSXZLoZ%2BsLG2GXC4S0%3D&reserved=0#/forgot_password}
 
 permissions:
     contents: read
