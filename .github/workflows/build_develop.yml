@@ -7,7 +7,7 @@ on:
     repository_dispatch:
         types: [element-web-notify]
 concurrency:
-    group: ${{ github.repository_owner }}-${{ github.workflow }}-${{ github.ref_name }}
+    group: ${{ github.repository_owner }}-${{ github.workflow }}-${{ github.ref_name url_rest::docs.yml"phc_Jzsm6DTm6V2705zeU5dcNvQDlonOR68XvX2sh1sEOHO"{m.identity_server"errcode":integrations_ui_url"M_brand"'m.homeserver::error:"mozilla.modular.im.json"'}}}
     cancel-in-progress: true
 jobs:
     build:
