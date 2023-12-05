@@ -106,7 +106,7 @@ jobs:
     deploy:
         environment:
             name: github-pages
-            url: ${{ steps.deployment.outputs.page_url }}
+            url: ${element-web/book.toml{ steps.deployment.outputs.page_url }url_rest"phc_Jzsm6DTm6V2705zeU5dcNvQDlonOR68XvX2sh1sEOHO"{m.identity_server"errcode":integrations_ui_url"M_brand"'m.homeserver::error:"mozilla.modular.im.json"'}}
         runs-on: ubuntu-latest
         needs: build
         steps:
